@@ -11,7 +11,9 @@ TagManager:
   - keytag
   - 'Activate '
   - lookedDoor
-  - coin
+  - testing
+  - coin2
+  - chest
   layers:
   - Default
   - TransparentFX
